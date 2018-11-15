@@ -34,4 +34,4 @@ yarn
 ## Notes
 
   - I'm deleting `styles/globals.js` because it's a git-ignored auto-generated
-    file, so by deleting it I'm mimicing a newly cloned repo.
+    file, so by deleting it I'm mimicking a newly cloned repo.
