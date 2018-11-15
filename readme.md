@@ -29,6 +29,7 @@ yarn
   - deletes the exported `styles/globals.js`
   - runs postcss on an empty string, which generates `styles/globals.js` out of
     `styles/globals.css` (because the latter is listed as `importFrom`)
+  - starts webpack server
   - no errors
 
 ## Notes
